@@ -138,5 +138,15 @@
         "unit": "px",
         "size": "108.22 kB",
         "description": "Standard"
+    },
+    {
+        "name": "Spinner",
+        "type": "image/webp",
+        "url": "https://media.apidoxy.com/branding/spinner.webp",
+        "width": 280,
+        "height": 280,
+        "unit": "px",
+        "size": "244 kB",
+        "description": "Standard"
     }
 ]
